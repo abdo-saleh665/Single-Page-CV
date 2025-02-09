@@ -47,3 +47,7 @@ Feel free to **fork** the project and submit pull requests! 🚀
 ## 📄 License
 This project is licensed under the MIT License.
 
+## 🔗 Additional Resources
+For more details, check out this guide on creating a **single-page CV**:  
+[Single Page CV Roadmap](https://roadmap.sh/projects/single-page-cv)
+
